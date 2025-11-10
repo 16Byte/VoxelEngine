@@ -39,3 +39,9 @@
 
 # debug information files
 *.dwo
+
+#MACOS
+*.DS_Store
+
+#vs code
+.vscode
